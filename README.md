@@ -19,7 +19,7 @@ The layout is very simple but mobile friendly as that was the main usage of that
 
 ## The 'Example' folder
 
-Questions and related media were published by the Polish government and were up-to-date in May 2022.
+Questions and related media (due to its size not currently available) were published by the Polish government and were up-to-date in May 2022.
 
 Multimedia there were converted by me to make them web-browser friendly.
 
